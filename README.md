@@ -1,5 +1,6 @@
-# My Pandas Journey 🐼
+# Learning Pandas 🐼
 
-Welcome! This is where I'm tracking my daily progress as I dive into data analysis with Pandas. 
+Hey! This is where I'm keeping all my Pandas practice stuff.
 
-I spun this off from my main Python learning repository so I could have a dedicated space just for data manipulation. Expect to see lots of DataFrames, Series, data cleaning, and real-world data crunching exercises here as I figure out how to handle big datasets like a pro!
+I moved this out of my main Python folder to keep things simple. It's mostly just me figuring out how to work with tables, clean up data, and do basic analysis. Nothing too fancy yet, just daily practice!
+
